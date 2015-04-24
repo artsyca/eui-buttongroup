@@ -1,0 +1,11 @@
+{{#each b in internalButtons}}
+  {{eui-button
+    style=b.style
+    label=b.label
+    class=b.class
+    size=size action="click"
+    disabled=b.disabled
+    loading=b.loading
+    __index=b.__index
+  }}
+{{/each}}
