@@ -1,6 +1,6 @@
 {
   "name": "eui-buttongroup",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Implement a buttongroup component using EmberUI",
   "directories": {
     "doc": "doc",
